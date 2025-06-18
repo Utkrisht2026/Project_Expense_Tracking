@@ -31,4 +31,15 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run frontend/app.py
    ```
+
+   
+## 👨‍💻 Author
+
+**Utkrisht Jalan**  
+Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel.  
+[GitHub Profile](https://github.com/Utkrisht2026)
+
+---
+
+## ⭐ If you found this useful, don't forget to star this repo!
    
