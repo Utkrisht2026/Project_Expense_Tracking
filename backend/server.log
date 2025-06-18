@@ -1,0 +1,8 @@
+2025-06-08 16:35:07,572 - db_helper - INFO - fetch_expense_summary_by_months
+2025-06-08 17:12:28,153 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-06-08 17:12:34,825 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-06-08 17:56:04,983 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-06-08 17:56:07,086 - db_helper - INFO - fetch_expense_summary_by_months
+2025-06-08 17:56:23,237 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-06-08 17:56:25,346 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-06-08 17:56:27,443 - db_helper - INFO - fetch_expense_summary_by_months
